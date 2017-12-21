@@ -13,4 +13,4 @@
 # limitations under the License.
 
 # Proprietary dependencies go here
-$(call inherit-product, vendor/Infinix/X556.mk)
+$(call inherit-product, vendor/infinix/x556.mk)
